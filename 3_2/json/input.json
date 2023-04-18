@@ -1,0 +1,21 @@
+{   
+    "tShirtsCount": {
+        "S": 1,
+        "M": 1, 
+        "L": 2, 
+        "XL": 1, 
+        "XXL": 1, 
+        "XXXL": 3
+    },
+    "orders": [
+        {"id": 1, "tShirtSizes": ["S", "M"]},
+        {"id": 2, "tShirtSizes": ["M", "L"]},
+        {"id": 3, "tShirtSizes": ["M"]},
+        {"id": 4, "tShirtSizes": ["L", "XL"]},
+        {"id": 4, "tShirtSizes": ["L", "XL"]},
+        {"id": 5, "tShirtSizes": ["XXL", "XXXL"]},
+        {"id": 6, "tShirtSizes": ["XXXL"]},
+        {"id": 6, "tShirtSizes": ["XXXL"]},
+        {"id": 6, "tShirtSizes": ["XXXL"]}
+    ]
+}
